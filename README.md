@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Xhuljo 👋
 
-<!--
-**xkashari/xkashari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Introduction
+I am a Construction Management student with experience in construction and running a painting business. I am interested in project management, construction estimating, and learning new technologies.
 
-Here are some ideas to get you started:
+## Skills and Technologies
+• Construction Estimating and Bidding  
+• Blueprint Interpretation  
+• Project Scheduling  
+• Microsoft Excel  
+• Microsoft Office  
+• GitHub  
+• Basic Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects and Work
+Painting Business – Owner and operator responsible for estimating jobs, scheduling work, and managing painting projects.
+
+Paint Cost Calculator – A simple tool that estimates paint needed and cost based on square footage.
+
+Construction Cost Estimator – A basic program that calculates project cost using labor and material estimates.
+
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkashari&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xkashari&layout=compact)
